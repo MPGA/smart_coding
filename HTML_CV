@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body
+
+h1 {
+    color: black;
+    text-align: left;
+}
+p { Text-align: left;
+    font-family: helvetica;
+    font-size: 15px;
+}
+h2 {
+    color: black;
+    text-align: left;
+}
+h3 {
+    color: black;
+    text-align: left;
+}
+
+</style>
+
+<title>Monica Gandino cv</title>
+</head>
+
+<body>
+<h1>Monica Gandino</h1>
+<h2>Urban Planner. GIS Specialist</h2>
+
+<h3><b> Skills</b></h3>
+<p>ArcMap, Qgis, PostgreSQL, PGAdmin,  PostGis, HTML, OSM, Excel, SCRUM,<br> Photoshop ,
+  Openlayers,Geoserver, Mapbox, Leaflet, Relational Data</br></p>
+
+<h3><b>Languages</b></h3>
+<table style="width:50%">
+  <tr>
+    <td>Spanish</td>
+    <td>Native</td>
+  </tr>
+
+  <tr>
+    <td>Italian</td>
+    <td>Full proficiency</td>
+  </tr>
+
+  <tr>
+    <td>English</td>
+    <td>Full proficiency</td>
+  </tr>
+
+   <tr>
+    <td>Danish</td>
+    <td>Basic</td>
+  </tr>
+  </table>
+
+<h3><b>Professional Experience</b></h3>
+<p><b>Living Map - GIS Developer Intern</b> </br> Sept 2017 - March 2018</br> Bath, United Kingdom</p>
+<p>
+Creation of digital maps using open-source. Database building process, database updates using Postgresql.</br>
+Geo-processing and manipulation of the data using QGIS, GRASS and Postgis.</br>
+Agile team working within a SCRUM framework.</p>
+
+<p><b>Turin municipality - Urban Regeneration Office - Internship</b></br> March 2015 - August  2015</br>Turin, Italy</br></p>
+<p>
+Process and analysis of the  residual areas within the City of Turin using the internal geoportal MappaTO and QGIS.
+</br>Data management of the European neighbours day for 2015.
+Site inspections and creation of visualizations for</br> the participatory project
+“The deliberative budget of the district 7 in the city of Turin”.
+</p>
+<p><b> Nanalab - Account manager Jr for LATAM</b></br> Sept 2011 - February 2015</br>
+<p>Building and maintaining communications with clients, translations of advertisements ,</br>
+monitoring online platforms such as Google Adwords , Adsense. Use of Google Analytics and Trends for market research.
+</p>
+<h3><b>Education</b></h3>
+<table style="width:80%">
+
+<tr>
+    <td>Aalborg University</td>
+    <td>MSc.Geoinformatics</td>
+    <td>2016-2018</td>
+  </tr>
+  <tr>
+    <td>Polytechnic of Turin</td>
+    <td>Bs.Urban and Territorial Planning</td>
+    <td>2010-2016</td>
+  </tr>
+</table>
+
+
+<br><a href="https://www.linkedin.com/in/monica-gandino-3854b7142/">Check my LinkedIn Profile Here!</a>
+
+
+</body>
+</html>
